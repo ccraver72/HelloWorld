@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="my_name">Cathy Clark</string>
+    <string name="course">Mobile Development Architecture Fall 2015</string>
+    <string name="major">Mobile Development Degree</string>
+    <string name="action_settings">Settings</string>
+</resources>
